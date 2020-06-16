@@ -1,0 +1,144 @@
+* {
+   /*box-sizing: border-box;*/
+    margin: 0 auto;
+}   
+
+.wrapper {
+    width: 1400px;
+    font-size: 0px;
+}
+
+/* header*************************************
+**********************************************/
+
+header {
+    padding-bottom: 30px;
+    padding-top: 107px;    
+}
+
+.styleheader{
+    font-family: 'Raleway', sans-serif;
+    font-size: 36px;
+    font-weight: 400;
+    text-align: center;
+    color: #212121;
+}
+
+.line {
+    width: 64px;
+    height: 2px;
+    background: #FF8B38;
+    border: none;
+    
+}
+
+.text {
+    padding-top: 30px;
+    color: #86878B;
+    font-size: 14px;
+    font-weight: 400;
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+}
+/*main****************************************
+***********************************************/
+/* sector_1******************** */
+.stylemain{
+    
+    /*background-color: yellow;*/
+    width: 1158px;
+    margin: 0 auto;
+    padding: 80px 0 106px;
+}
+
+.bloc{
+    display: inline-block;
+    width: 350px;
+    padding-left: 16px;
+    padding-right: 16px;
+}
+
+.icon {
+    width: 70px;
+    height: 70px;
+    margin: 0 auto;
+    border: 2px solid #FF8B38;
+    border-radius: 50%;
+}
+
+.lamp {
+    background: url(../img/lamp.png) no-repeat center center;
+}
+
+.keyboard {
+    background: url(../img/keyboard.png) no-repeat center center;
+}
+
+.lightning {
+    background: url(../img/11.png) no-repeat center center;
+}
+/* sector_2******************************
+**************************************************/
+
+.city{
+    padding-top: 76px;
+    padding-bottom: 63px;
+    background: url(../img/u25_state0@1X.png) no-repeat center center;
+}
+
+.linecity{    
+    width: 74px;
+    height: 2px;
+    margin-top: 26px;
+    margin-bottom: 23px;
+        background: #ffffff;
+}
+
+.textcity{
+    font-family: 'Raleway', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    opacity: 0.8;
+    text-align: center;
+}
+
+.download {
+    display: block;
+    margin: 33px auto 0px;   
+    padding: 15px 0 14px;
+    width: 135px;
+    font-weight: 400;
+    font-size: 15px;
+    font-family: 'Open Sans', sans-serif;
+    border: 2px solid #ffffff;
+    background-color: transparent;
+}
+
+/*footer******************************
+**************************************/
+footer{
+    background-color: #000000 ;
+    padding-top: 39px;
+    padding-bottom: 15px;
+}
+
+.footerbutton {
+    width: 314px;
+    height: 23px;
+    background: url(../img/photo_2020-06-14_23-00-06.jpg) no-repeat center center;
+
+}
+
+.footertext{
+    padding-top: 15px;
+    font-size: 12px;
+    opacity: 0.5;
+    font-weight: 400;
+    font-family: 'Open Sans', sans-serif; 
+    color: #FFFFFF; 
+    text-align: center; 
+}
+
+.white{
+    color: #FFFFFF;
+}
