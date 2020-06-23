@@ -81,7 +81,7 @@ header {
 }
 
 .lightning {
-    background: url(../img/11.png) no-repeat center center;
+    background: url(../img/square.png) no-repeat center center;
 }
 /* sector_2******************************
 **************************************************/
@@ -89,7 +89,7 @@ header {
 .city{
     padding-top: 76px;
     padding-bottom: 63px;
-    background: url(../img/u25_state0@1X.png) no-repeat center center;
+    background: url(../img/city.png) no-repeat center center;
 }
 
 .line-city{    
@@ -131,7 +131,7 @@ footer{
 .footer-button {
     width: 314px;
     height: 23px;
-    background: url(../img/photo_2020-06-14_23-00-06.jpg) no-repeat center center;
+    background: url(../img/button.jpg) no-repeat center center;
 
 }
 
